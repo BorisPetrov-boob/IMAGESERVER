@@ -9,6 +9,19 @@ from config import Config
 ## Локальные константы из config.py
 def setup_logging():
     ## Настройка логирования
+    log_dir = Config.LOGS_DIR
+    log_file = os.path.join(log_dir, 'app.log')
+    if not os.path.exists(log_dir):
+        try:
+            os.makedirs(log_dir, exist_ok=True)
+        except PermissionError:
+            # Если нет прав, используем текущую директорию
+            log_dir = '.'
+            log_file = 'app.log'
+            print(f"Warning: Cannot create logs directory. Using current directory.")
+    
+    
+       
     log_format = '[%(asctime)s] %(levelname)s: %(message)s'
     date_format = '%Y-%m-%d %H:%M:%S'
 
@@ -17,7 +30,7 @@ def setup_logging():
         format=log_format, 
         datefmt=date_format,
         handlers =[
-            logging.FileHandler(Config.LOGS_DIR, encoding='utf-8'),
+            logging.FileHandler(log_file, encoding='utf-8'),
             logging.StreamHandler()
        ]
     )
@@ -36,7 +49,7 @@ def log_success(message):
     
 ## работа с файлами
 def ensure_directories():
-    os.makedirs(Config.upload_folder, exist_ok=True)
+    os.makedirs(Config.UPLOAD_FOLDER, exist_ok=True)
     os.makedirs(Config.LOGS_DIR, exist_ok=True)
     os.makedirs(Config.BACKUP_DIR, exist_ok=True)
     
@@ -72,7 +85,7 @@ def save_file(filename, file_content):
     try:
         original_name = secure_filename(filename)
         new_filename = generate_unique_filename(original_name)
-        file_path = os.path.join(Config.upload_folder, new_filename)
+        file_path = os.path.join(Config.UPLOAD_FOLDER, new_filename)
 
         with open(file_path, 'wb') as f:
             f.write(file_content)
@@ -88,7 +101,7 @@ def save_file(filename, file_content):
     
 def delete_file(filename):
     try:
-        file_path =  os.path.join(Config.upload_folder, filename)
+        file_path =  os.path.join(Config.UPLOAD_FOLDER, filename)
         if os.path.exists(file_path):
             os.remove(file_path)
             return True

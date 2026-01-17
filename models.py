@@ -4,7 +4,7 @@ from typing import Optional
 
 
 @dataclass
-class User:
+class Image:
     id: Optional[int] = None
     filename: str = ''
     original_name: str = ''
