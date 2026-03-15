@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/images.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Image Gallery</h1>
+            <h2>View all uploaded images</h2>
+        </div>
+        <div class="content">
+            <div class="choose">
+                <a href="{{ url_for('upload_page') }}" class="text_upload">Upload</a>
+                <a href="{{ url_for('gallery_page') }}" class="text_image">Images</a>
+            </div>
+            <div id="gallery-error" class="empty-state" style="display: none;"></div>
+            <div class="images-container">
+                <div class="images-header">
+                    <div class="header-name">Name</div>
+                    <div class="header-url">URL</div>
+                    <div class="header-delete">Delete</div>
+                </div>
+                <div id="images-list" class="images-list"></div>
+            <div id="empty-state" class="empty-state" style="display: none;">
+                    <p>No images uploaded</p>
+                    <a href="{{ url_for('upload_page') }}" class="upload-link">Upload your first image</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/images-list.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="/static/css/images.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Image Gallery</h1>
+            <h2>View all uploaded images</h2>
+        </div>
+        
+        <div class="content">
+            <div class="choose">
+                <a href="/upload" class="text_upload">Upload</a>
+                <a href="/images" class="text_image">Images</a>
+            </div>
+
+            <!-- Галерея изображений -->
+            <div class="images-container">
+                <div class="images-header">
+                    <div class="header-name">Name</div>
+                    <div class="header-url">URL</div>
+                    <div class="header-delete">Delete</div>
+                </div>   
+                
+                <!-- Изображения будут добавлены здесь динамически -->
+                <div id="images-list"></div>
+                
+                <!-- Пустое состояние -->
+                <div id="empty-state" class="empty-state" style="display: none;">
+                    <p>No images uploaded</p>
+                    <a href="/upload" class="upload-link">Upload your first image</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="/static/js/storage.js"></script>
+    <script src="/static/js/images-list.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>

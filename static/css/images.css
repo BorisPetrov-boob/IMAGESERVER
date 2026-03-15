@@ -1,0 +1,216 @@
+/* ====== ОСНОВНОЙ СТИЛЬ ТВОЕГО UI ====== */
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #0b0b0b;
+}
+
+.header > h1 {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: -0.02em;
+}
+
+.header > h2 {
+    font-family: var(--second-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: -0.04em;
+}
+
+.choose {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.text_upload,
+.text_image {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 20px;
+    text-decoration: none;
+    transition: opacity 0.3s ease;
+}
+
+.text_upload {
+    color: #adc0f8;
+    margin-right: 18px;
+}
+
+.text_image {
+    color: #0060ff;
+}
+
+.text_upload:hover,
+.text_image:hover {
+    opacity: 0.8;
+}
+
+
+
+/* ====== КОНТЕЙНЕР С ИЗОБРАЖЕНИЯМИ ====== */
+
+.images-container {
+    max-width: 800px;
+    margin: 50px auto 0 auto;
+    background: #fff;
+}
+
+.images-header {
+    display: grid;
+    grid-template-columns: 2fr 3fr 1fr;
+    gap: 20px;
+    padding: 16px 20px;
+    background-color: #f2f5ff;
+
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    color: #0b0b0b;
+}
+
+.header-name,
+.header-URL,
+.header-delete {
+    text-align: left;
+}
+
+.images-list {
+    border: 2px solid #ebe7e7;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+
+
+/* ====== ЭЛЕМЕНТ СПИСКА - адаптировано под твой UI ====== */
+
+#images-list {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Один элемент */
+.image-item {
+    display: grid;
+    grid-template-columns: 2fr 3fr 1fr;
+    align-items: center;
+
+    padding: 14px 20px;
+    background: #fff;
+
+    border-bottom: 1px solid #ebe7e7;
+    font-family: var(--font-family);
+    transition: background 0.2s ease;
+}
+
+.image-item:last-child {
+    border-bottom: none;
+}
+
+.image-item:hover {
+    background: #f7f9ff;
+}
+
+
+
+/* ====== Имя файла ====== */
+
+.image-name {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    font-weight: 600;
+    color: #0b0b0b;
+    font-size: 14px;
+}
+
+.image-icon {
+    font-size: 20px;
+}
+
+
+
+/* ====== URL ====== */
+
+.image-url-wrapper {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.image-url {
+    font-size: 13px;
+    font-family: var(--font-family);
+    color: #0060ff;
+    text-decoration: none;
+}
+
+.image-url:hover {
+    opacity: 0.7;
+}
+
+
+
+/* ====== КНОПКА УДАЛЕНИЯ ====== */
+
+.delete-btn {
+    background: #0060ff;
+    border: none;
+
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 12px;
+    color: #fff;
+
+    padding: 8px 12px;
+    border-radius: 7px;
+    cursor: pointer;
+
+    transition: opacity 0.15s ease, transform 0.15s ease;
+}
+
+.delete-btn:hover {
+    opacity: 0.8;
+}
+
+.delete-btn:active {
+    transform: scale(0.92);
+}
+
+
+
+/* ====== ПУСТОЙ СПИСОК ====== */
+
+#empty-state {
+    text-align: center;
+    margin: 40px 0;
+    font-family: var(--font-family);
+    font-size: 14px;
+    color: #adc0f8;
+    display: none;
+}
+
+#empty-state::before {
+    content: "📭";
+    display: block;
+    font-size: 48px;
+    opacity: 0.5;
+    margin-bottom: 10px;
+}
+
+
+
+/* ====== АНИМАЦИЯ УДАЛЕНИЯ ====== */
+
+.image-item.removing {
+    opacity: 0;
+    transform: translateY(-4px);
+    transition: 0.25s ease;
+}

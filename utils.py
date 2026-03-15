@@ -81,9 +81,18 @@ def generate_unique_filename(original_filename):
     unique_id = str(uuid.uuid4())
     return f"{unique_id}{ext}"
 
+def _ensure_str(value):
+    if isinstance(value, bytes):
+        try:
+            return value.decode('utf-8', 'ignore')
+        except Exception:
+            return str(value, errors='ignore')
+    return str(value) if value is not None else ''
+
+
 def save_file(filename, file_content):
     try:
-        original_name = secure_filename(filename)
+        original_name = secure_filename(_ensure_str(filename))
         new_filename = generate_unique_filename(original_name)
         file_path = os.path.join(Config.UPLOAD_FOLDER, new_filename)
 

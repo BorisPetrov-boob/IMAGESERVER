@@ -21,5 +21,5 @@ class Image:
             "size": self.size,
             "upload_time": self.upload_time.isoformat() if self.upload_time else None,
             "file_type": self.file_type,
-            "url": f"images/{self.filename}"
+            "url": f"/images/{self.filename}"
         }

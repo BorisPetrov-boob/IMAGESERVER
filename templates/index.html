@@ -1,21 +1,31 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Приветственная страница</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin-top: 50px;
-        }
-        h1 {
-            color: #333;
-        }
-    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Hosting</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
-    <h1>Привет! Добро пожаловать на мой сайт.</h1>
-    <p>Это пример простой HTML-страницы.</p>
+    <div class="container">
+        <div class="header">
+            <h1>Upload Photos</h1>
+            <h2>Upload selfies, memes, or any fun pictures here.</h2>
+            <div>
+                <a class="button" href="{{ url_for('upload_page') }}">Upload images</a>
+                <a class="button" href="{{ url_for('gallery_page') }}">Browse gallery</a>
+            </div>
+        </div>
+        <div class="animals">
+            <img id="image"
+                 src="{{ url_for('static', filename='images/1.png') }}"
+                 data-placeholder="{{ url_for('static', filename='images/1.png') }}"
+                 alt="Uploaded picture preview">
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/index.js') }}"></script>
 </body>
 </html>

@@ -1,6 +1,1069 @@
-[2026-01-17 14:19:41] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+[2026-01-19 19:32:04] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:5000
-[2026-01-17 14:19:41] INFO: [33mPress CTRL+C to quit[0m
-[2026-01-17 14:19:41] INFO:  * Restarting with stat
-[2026-01-17 14:19:42] WARNING:  * Debugger is active!
-[2026-01-17 14:19:42] INFO:  * Debugger PIN: 124-454-535
+[2026-01-19 19:32:04] INFO: [33mPress CTRL+C to quit[0m
+[2026-01-19 19:32:04] INFO:  * Restarting with stat
+[2026-01-19 19:32:04] WARNING:  * Debugger is active!
+[2026-01-19 19:32:04] INFO:  * Debugger PIN: 138-042-821
+[2026-01-19 19:37:32] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-01-19 19:37:32] INFO: [33mPress CTRL+C to quit[0m
+[2026-01-19 19:37:32] INFO:  * Restarting with stat
+[2026-01-19 19:37:32] WARNING:  * Debugger is active!
+[2026-01-19 19:37:32] INFO:  * Debugger PIN: 247-490-524
+[2026-01-19 19:42:00] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-01-19 19:42:00] INFO: [33mPress CTRL+C to quit[0m
+[2026-01-19 19:42:00] INFO:  * Restarting with stat
+[2026-01-19 19:40:45] WARNING:  * Debugger is active!
+[2026-01-19 19:40:45] INFO:  * Debugger PIN: 125-811-773
+[2026-01-19 19:43:02] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-01-19 19:43:02] INFO: [33mPress CTRL+C to quit[0m
+[2026-01-19 19:43:02] INFO:  * Restarting with stat
+[2026-01-19 19:43:02] WARNING:  * Debugger is active!
+[2026-01-19 19:43:02] INFO:  * Debugger PIN: 650-650-256
+[2026-01-19 20:04:25] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-01-19 20:04:25] INFO: [33mPress CTRL+C to quit[0m
+[2026-01-19 20:04:25] INFO:  * Restarting with stat
+[2026-01-19 20:04:25] WARNING:  * Debugger is active!
+[2026-01-19 20:04:25] INFO:  * Debugger PIN: 290-075-478
+[2026-01-19 20:13:03] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-01-19 20:13:03] INFO: [33mPress CTRL+C to quit[0m
+[2026-01-19 20:13:03] INFO:  * Restarting with stat
+[2026-01-19 20:13:02] WARNING:  * Debugger is active!
+[2026-01-19 20:13:02] INFO:  * Debugger PIN: 138-888-858
+[2026-01-19 20:21:15] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-01-19 20:21:15] INFO: [33mPress CTRL+C to quit[0m
+[2026-01-19 20:21:15] INFO:  * Restarting with stat
+[2026-01-19 20:21:15] WARNING:  * Debugger is active!
+[2026-01-19 20:21:15] INFO:  * Debugger PIN: 104-251-273
+[2026-01-19 21:01:45] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-01-19 21:01:45] INFO: [33mPress CTRL+C to quit[0m
+[2026-01-19 21:01:45] INFO:  * Restarting with stat
+[2026-01-19 21:01:45] WARNING:  * Debugger is active!
+[2026-01-19 21:01:45] INFO:  * Debugger PIN: 719-829-046
+[2026-01-21 17:21:39] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-01-21 17:21:39] INFO: [33mPress CTRL+C to quit[0m
+[2026-01-21 17:21:39] INFO:  * Restarting with stat
+[2026-01-21 17:21:39] WARNING:  * Debugger is active!
+[2026-01-21 17:21:39] INFO:  * Debugger PIN: 616-242-468
+[2026-01-21 17:59:07] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.3:5000
+[2026-01-21 17:59:07] INFO: [33mPress CTRL+C to quit[0m
+[2026-01-21 17:59:07] INFO:  * Restarting with stat
+[2026-01-21 17:59:07] WARNING:  * Debugger is active!
+[2026-01-21 17:59:07] INFO:  * Debugger PIN: 121-693-268
+[2026-01-21 18:00:07] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:07] "GET / HTTP/1.1" 200 -
+[2026-01-21 18:00:07] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:07] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:00:07] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2026-01-21 18:00:10] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:10] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:00:10] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:10] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:00:10] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:10] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:00:10] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:10] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:00:10] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:10] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:00:46] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:46] "GET /images HTTP/1.1" 200 -
+[2026-01-21 18:00:46] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:46] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:00:46] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:46] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:00:46] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:46] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:00:46] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:46] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:00:51] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:51] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:00:51] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:51] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:00:51] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:51] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:00:51] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:51] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:00:51] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:51] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:00:52] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:52] "GET /images HTTP/1.1" 200 -
+[2026-01-21 18:00:52] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:52] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:00:52] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:52] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:00:52] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:52] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:00:52] INFO: 172.18.0.1 - - [21/Jan/2026 18:00:52] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:01:11] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:11] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:01:11] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:11] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:01:11] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:11] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:01:11] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:11] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:01:11] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:11] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:01:13] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:13] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:01:13] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:13] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:01:13] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:13] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:01:13] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:13] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:01:13] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:13] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:01:24] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:24] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:01:24] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:24] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:01:24] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:24] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:01:24] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:24] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:01:24] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:24] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:01:31] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:31] "GET / HTTP/1.1" 200 -
+[2026-01-21 18:01:31] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:31] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:01:41] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:41] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:01:41] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:41] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:01:41] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:41] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:01:41] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:41] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:01:41] INFO: 172.18.0.1 - - [21/Jan/2026 18:01:41] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:12:22] INFO: 172.18.0.1 - - [21/Jan/2026 18:12:22] "GET / HTTP/1.1" 200 -
+[2026-01-21 18:12:22] INFO: 172.18.0.1 - - [21/Jan/2026 18:12:22] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:12:25] INFO: 172.18.0.1 - - [21/Jan/2026 18:12:25] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:12:25] INFO: 172.18.0.1 - - [21/Jan/2026 18:12:25] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:12:25] INFO: 172.18.0.1 - - [21/Jan/2026 18:12:25] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:12:25] INFO: 172.18.0.1 - - [21/Jan/2026 18:12:25] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:12:25] INFO: 172.18.0.1 - - [21/Jan/2026 18:12:25] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:15:49] INFO: 172.18.0.1 - - [21/Jan/2026 18:15:49] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:15:49] INFO: 172.18.0.1 - - [21/Jan/2026 18:15:49] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:15:49] INFO: 172.18.0.1 - - [21/Jan/2026 18:15:49] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:15:49] INFO: 172.18.0.1 - - [21/Jan/2026 18:15:49] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:15:49] INFO: 172.18.0.1 - - [21/Jan/2026 18:15:49] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:15:57] INFO: 172.18.0.1 - - [21/Jan/2026 18:15:57] "GET /images HTTP/1.1" 200 -
+[2026-01-21 18:15:57] INFO: 172.18.0.1 - - [21/Jan/2026 18:15:57] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:15:57] INFO: 172.18.0.1 - - [21/Jan/2026 18:15:57] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:15:57] INFO: 172.18.0.1 - - [21/Jan/2026 18:15:57] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:15:57] INFO: 172.18.0.1 - - [21/Jan/2026 18:15:57] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:16:00] INFO: 172.18.0.1 - - [21/Jan/2026 18:16:00] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:16:00] INFO: 172.18.0.1 - - [21/Jan/2026 18:16:00] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:16:00] INFO: 172.18.0.1 - - [21/Jan/2026 18:16:00] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:16:00] INFO: 172.18.0.1 - - [21/Jan/2026 18:16:00] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:16:00] INFO: 172.18.0.1 - - [21/Jan/2026 18:16:00] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:16:50] INFO: 172.18.0.1 - - [21/Jan/2026 18:16:50] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:22:25] INFO: 172.18.0.1 - - [21/Jan/2026 18:22:25] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:22:28] INFO: 172.18.0.1 - - [21/Jan/2026 18:22:28] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:22:36] INFO: 172.18.0.1 - - [21/Jan/2026 18:22:36] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:23:50] INFO: 172.18.0.1 - - [21/Jan/2026 18:23:50] "GET / HTTP/1.1" 200 -
+[2026-01-21 18:23:50] INFO: 172.18.0.1 - - [21/Jan/2026 18:23:50] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:23:55] INFO: 172.18.0.1 - - [21/Jan/2026 18:23:55] "GET /images HTTP/1.1" 200 -
+[2026-01-21 18:23:55] INFO: 172.18.0.1 - - [21/Jan/2026 18:23:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:23:55] INFO: 172.18.0.1 - - [21/Jan/2026 18:23:55] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:23:55] INFO: 172.18.0.1 - - [21/Jan/2026 18:23:55] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:23:55] INFO: 172.18.0.1 - - [21/Jan/2026 18:23:55] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:30:32] INFO: 172.18.0.1 - - [21/Jan/2026 18:30:32] "GET / HTTP/1.1" 200 -
+[2026-01-21 18:30:32] INFO: 172.18.0.1 - - [21/Jan/2026 18:30:32] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:30:34] INFO: 172.18.0.1 - - [21/Jan/2026 18:30:34] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:30:34] INFO: 172.18.0.1 - - [21/Jan/2026 18:30:34] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:30:34] INFO: 172.18.0.1 - - [21/Jan/2026 18:30:34] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:30:34] INFO: 172.18.0.1 - - [21/Jan/2026 18:30:34] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:30:34] INFO: 172.18.0.1 - - [21/Jan/2026 18:30:34] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:30:35] INFO: 172.18.0.1 - - [21/Jan/2026 18:30:35] "GET /images HTTP/1.1" 200 -
+[2026-01-21 18:30:35] INFO: 172.18.0.1 - - [21/Jan/2026 18:30:35] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:30:35] INFO: 172.18.0.1 - - [21/Jan/2026 18:30:35] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:30:35] INFO: 172.18.0.1 - - [21/Jan/2026 18:30:35] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:30:35] INFO: 172.18.0.1 - - [21/Jan/2026 18:30:35] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:30:37] INFO: 172.18.0.1 - - [21/Jan/2026 18:30:37] "GET /images HTTP/1.1" 200 -
+[2026-01-21 18:30:37] INFO: 172.18.0.1 - - [21/Jan/2026 18:30:37] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:30:37] INFO: 172.18.0.1 - - [21/Jan/2026 18:30:37] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:30:37] INFO: 172.18.0.1 - - [21/Jan/2026 18:30:37] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:30:37] INFO: 172.18.0.1 - - [21/Jan/2026 18:30:37] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:22] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:22] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:38:23] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:23] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:23] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:23] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:23] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:23] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:23] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:23] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:24] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:24] "GET /images HTTP/1.1" 200 -
+[2026-01-21 18:38:24] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:24] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:24] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:24] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:24] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:24] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:24] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:24] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:25] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:25] "GET /images HTTP/1.1" 200 -
+[2026-01-21 18:38:25] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:25] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:25] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:25] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:25] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:25] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:25] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:25] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:29] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:29] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:38:29] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:29] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:29] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:29] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:29] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:29] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:29] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:29] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:29] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:29] "GET /images HTTP/1.1" 200 -
+[2026-01-21 18:38:30] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:30] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:30] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:30] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:30] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:30] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:30] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:30] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:31] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:31] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:38:31] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:31] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:31] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:31] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:31] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:31] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:38:31] INFO: 172.18.0.1 - - [21/Jan/2026 18:38:31] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:42:54] INFO: 172.18.0.1 - - [21/Jan/2026 18:42:54] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:42:54] INFO: 172.18.0.1 - - [21/Jan/2026 18:42:54] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:42:54] INFO: 172.18.0.1 - - [21/Jan/2026 18:42:54] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:42:54] INFO: 172.18.0.1 - - [21/Jan/2026 18:42:54] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:42:54] INFO: 172.18.0.1 - - [21/Jan/2026 18:42:54] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:42:58] INFO: 172.18.0.1 - - [21/Jan/2026 18:42:58] "GET / HTTP/1.1" 200 -
+[2026-01-21 18:42:58] INFO: 172.18.0.1 - - [21/Jan/2026 18:42:58] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:00] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:00] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:43:00] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:00] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:00] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:00] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:00] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:00] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:00] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:00] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:24] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:24] "GET /images HTTP/1.1" 200 -
+[2026-01-21 18:43:24] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:24] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:24] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:24] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:24] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:24] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:24] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:24] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:24] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:24] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:43:24] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:24] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:24] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:24] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:24] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:24] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:24] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:24] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:29] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:29] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:43:29] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:29] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:29] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:29] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:29] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:29] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:29] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:29] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:43] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:43] "GET /images HTTP/1.1" 200 -
+[2026-01-21 18:43:43] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:43] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:43] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:43] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:43] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:43] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:43] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:43] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:45] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:45] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:43:47] INFO: 172.18.0.1 - - [21/Jan/2026 18:43:47] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:30] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:30] "GET /images HTTP/1.1" 200 -
+[2026-01-21 18:56:30] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:30] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:30] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:30] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:30] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:30] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:30] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:30] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:32] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:32] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:56:32] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:32] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:32] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:32] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:32] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:32] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:32] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:32] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:33] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:33] "GET /images HTTP/1.1" 200 -
+[2026-01-21 18:56:33] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:33] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:33] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:33] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:33] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:33] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:33] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:33] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:33] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:33] "GET /images HTTP/1.1" 200 -
+[2026-01-21 18:56:33] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:33] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:33] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:33] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:33] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:33] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:33] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:33] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:33] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:33] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:56:33] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:33] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:33] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:33] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:33] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:33] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:33] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:33] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:34] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:34] "GET /images HTTP/1.1" 200 -
+[2026-01-21 18:56:34] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:34] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:34] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:34] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:34] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:34] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:34] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:34] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:34] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:34] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:56:34] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:34] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:34] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:34] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:34] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:34] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:34] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:34] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:52] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:52] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:56:52] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:52] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:52] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:52] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:52] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:52] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:52] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:52] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:53] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:53] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:56:53] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:53] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:53] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:53] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:53] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:53] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:53] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:53] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:54] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:54] "GET /images HTTP/1.1" 200 -
+[2026-01-21 18:56:54] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:54] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:54] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:54] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:54] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:54] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:54] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:54] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:55] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:55] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:56:55] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:55] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:55] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:55] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:55] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:55] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:55] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:57] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:57] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 18:56:57] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:57] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:57] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:57] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:57] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:57] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 18:56:57] INFO: 172.18.0.1 - - [21/Jan/2026 18:56:57] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:06] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:06] "GET / HTTP/1.1" 200 -
+[2026-01-21 19:26:06] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:06] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:08] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:08] "GET /images HTTP/1.1" 200 -
+[2026-01-21 19:26:08] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:08] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:08] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:08] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:08] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:08] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:08] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:08] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:11] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:11] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 19:26:11] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:11] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:11] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:11] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:11] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:11] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:11] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:11] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:24] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:24] "GET / HTTP/1.1" 200 -
+[2026-01-21 19:26:24] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:24] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:28] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:28] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 19:26:28] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:28] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:28] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:28] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:28] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:28] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:28] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:28] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:31] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:31] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 19:26:31] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:31] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:31] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:31] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:31] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:31] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:31] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:31] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:33] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:33] "GET /images HTTP/1.1" 200 -
+[2026-01-21 19:26:33] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:33] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:33] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:33] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:33] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:33] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:33] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:33] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:35] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:35] "GET /images HTTP/1.1" 200 -
+[2026-01-21 19:26:35] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:35] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:35] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:35] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:35] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:35] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:35] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:35] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:38] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:38] "GET /images HTTP/1.1" 200 -
+[2026-01-21 19:26:38] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:38] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:38] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:38] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:38] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:38] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:38] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:38] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:38] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:38] "GET /images HTTP/1.1" 200 -
+[2026-01-21 19:26:38] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:38] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:38] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:38] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:38] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:38] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:38] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:38] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:38] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:38] "GET /images HTTP/1.1" 200 -
+[2026-01-21 19:26:38] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:38] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:38] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:38] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:38] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:38] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:38] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:38] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:38] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:38] "GET /images HTTP/1.1" 200 -
+[2026-01-21 19:26:38] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:38] "[33mGET /static/css/images.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:38] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:38] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:38] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:38] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:38] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:38] "[33mGET /static/js/images-list.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:39] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:39] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 19:26:39] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:39] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:39] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:39] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:39] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:39] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:39] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:26:44] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:44] "GET / HTTP/1.1" 200 -
+[2026-01-21 19:26:44] INFO: 172.18.0.1 - - [21/Jan/2026 19:26:44] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:32:59] INFO: 172.18.0.1 - - [21/Jan/2026 19:32:59] "GET / HTTP/1.1" 200 -
+[2026-01-21 19:32:59] INFO: 172.18.0.1 - - [21/Jan/2026 19:32:59] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:33:01] INFO: 172.18.0.1 - - [21/Jan/2026 19:33:01] "GET /upload HTTP/1.1" 200 -
+[2026-01-21 19:33:01] INFO: 172.18.0.1 - - [21/Jan/2026 19:33:01] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:33:01] INFO: 172.18.0.1 - - [21/Jan/2026 19:33:01] "[33mGET /static/css/upload_style.css HTTP/1.1[0m" 404 -
+[2026-01-21 19:33:01] INFO: 172.18.0.1 - - [21/Jan/2026 19:33:01] "[33mGET /static/js/storage.js HTTP/1.1[0m" 404 -
+[2026-01-21 19:33:01] INFO: 172.18.0.1 - - [21/Jan/2026 19:33:01] "[33mGET /static/js/upload.js HTTP/1.1[0m" 404 -
+[2026-03-15 13:48:52] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-03-15 13:48:52] INFO: [33mPress CTRL+C to quit[0m
+[2026-03-15 13:48:52] INFO:  * Restarting with stat
+[2026-03-15 13:48:52] WARNING:  * Debugger is active!
+[2026-03-15 13:48:52] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 13:48:56] INFO: 127.0.0.1 - - [15/Mar/2026 13:48:56] "GET / HTTP/1.1" 200 -
+[2026-03-15 13:48:56] INFO: 127.0.0.1 - - [15/Mar/2026 13:48:56] "GET /static/js/index.js HTTP/1.1" 200 -
+[2026-03-15 13:48:56] INFO: 127.0.0.1 - - [15/Mar/2026 13:48:56] "GET /static/css/style.css HTTP/1.1" 200 -
+[2026-03-15 13:48:56] INFO: 127.0.0.1 - - [15/Mar/2026 13:48:56] "GET /static/images/1.png HTTP/1.1" 200 -
+[2026-03-15 13:48:56] INFO: 127.0.0.1 - - [15/Mar/2026 13:48:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2026-03-15 13:49:00] ERROR: Ошибка при получении списка изображений: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+[2026-03-15 13:49:00] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:00] "[35m[1mGET /images?page=1&per_page=10 HTTP/1.1[0m" 500 -
+[2026-03-15 13:49:04] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:04] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 13:49:04] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:49:04] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:04] "GET /static/css/upload_style.css HTTP/1.1" 200 -
+[2026-03-15 13:49:04] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:04] "GET /static/js/upload.js HTTP/1.1" 200 -
+[2026-03-15 13:49:16] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:16] "GET /gallery HTTP/1.1" 200 -
+[2026-03-15 13:49:16] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:49:16] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:16] "GET /static/css/images.css HTTP/1.1" 200 -
+[2026-03-15 13:49:16] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:16] "GET /static/js/images-list.js HTTP/1.1" 200 -
+[2026-03-15 13:49:18] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:18] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 13:49:18] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:49:18] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:18] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:49:18] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:18] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 13:49:20] ERROR: Ошибка при получении списка изображений: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+[2026-03-15 13:49:20] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:20] "[35m[1mGET /images?page=1&per_page=100 HTTP/1.1[0m" 500 -
+[2026-03-15 13:49:31] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:31] "GET / HTTP/1.1" 200 -
+[2026-03-15 13:49:31] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:49:31] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:31] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 13:49:31] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:31] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 13:49:35] ERROR: Ошибка при получении списка изображений: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+[2026-03-15 13:49:35] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:35] "[35m[1mGET /images?page=1&per_page=10 HTTP/1.1[0m" 500 -
+[2026-03-15 13:49:37] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:37] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 13:49:37] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:49:37] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:37] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:49:37] INFO: 127.0.0.1 - - [15/Mar/2026 13:49:37] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 13:50:37] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:37] "GET / HTTP/1.1" 200 -
+[2026-03-15 13:50:37] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:50:37] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:37] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 13:50:37] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:37] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 13:50:38] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:38] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 13:50:38] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:50:38] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:38] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:50:38] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:38] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 13:50:41] ERROR: Ошибка при получении списка изображений: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+[2026-03-15 13:50:41] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:41] "[35m[1mGET /images?page=1&per_page=10 HTTP/1.1[0m" 500 -
+[2026-03-15 13:50:45] ERROR: Ошибка при сохранении файла: normalize() argument 2 must be str, not bytes
+[2026-03-15 13:50:45] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:45] "[35m[1mPOST /uploads HTTP/1.1[0m" 500 -
+[2026-03-15 13:50:57] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:57] "GET /gallery HTTP/1.1" 200 -
+[2026-03-15 13:50:57] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:50:57] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:57] "[36mGET /static/css/images.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:50:57] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:57] "[36mGET /static/js/images-list.js HTTP/1.1[0m" 304 -
+[2026-03-15 13:50:57] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:57] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 13:50:57] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:50:57] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:57] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:50:57] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:57] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 13:50:57] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:57] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 13:50:57] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:50:57] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:57] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:50:57] INFO: 127.0.0.1 - - [15/Mar/2026 13:50:57] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 13:51:00] ERROR: Ошибка при сохранении файла: normalize() argument 2 must be str, not bytes
+[2026-03-15 13:51:00] INFO: 127.0.0.1 - - [15/Mar/2026 13:51:00] "[35m[1mPOST /uploads HTTP/1.1[0m" 500 -
+[2026-03-15 13:51:01] ERROR: Ошибка при получении списка изображений: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+[2026-03-15 13:51:01] INFO: 127.0.0.1 - - [15/Mar/2026 13:51:01] "[35m[1mGET /images?page=1&per_page=100 HTTP/1.1[0m" 500 -
+[2026-03-15 13:51:19] ERROR: Ошибка при сохранении файла: normalize() argument 2 must be str, not bytes
+[2026-03-15 13:51:19] INFO: 127.0.0.1 - - [15/Mar/2026 13:51:19] "[35m[1mPOST /uploads HTTP/1.1[0m" 500 -
+[2026-03-15 13:51:22] INFO: 127.0.0.1 - - [15/Mar/2026 13:51:22] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 13:51:22] INFO: 127.0.0.1 - - [15/Mar/2026 13:51:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:51:22] INFO: 127.0.0.1 - - [15/Mar/2026 13:51:22] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:51:22] INFO: 127.0.0.1 - - [15/Mar/2026 13:51:22] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 13:51:26] ERROR: Ошибка при сохранении файла: normalize() argument 2 must be str, not bytes
+[2026-03-15 13:51:26] INFO: 127.0.0.1 - - [15/Mar/2026 13:51:26] "[35m[1mPOST /uploads HTTP/1.1[0m" 500 -
+[2026-03-15 13:53:00] INFO:  * Detected change in 'C:\\Users\\Admin\\Desktop\\ImageServer\\utils.py', reloading
+[2026-03-15 13:53:00] INFO:  * Restarting with stat
+[2026-03-15 13:53:00] WARNING:  * Debugger is active!
+[2026-03-15 13:53:00] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 13:53:06] INFO:  * Detected change in 'C:\\Users\\Admin\\Desktop\\ImageServer\\database.py', reloading
+[2026-03-15 13:53:06] INFO:  * Restarting with stat
+[2026-03-15 13:53:06] WARNING:  * Debugger is active!
+[2026-03-15 13:53:06] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 13:54:03] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:03] "GET / HTTP/1.1" 200 -
+[2026-03-15 13:54:03] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:03] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 13:54:03] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:54:03] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:03] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 13:54:04] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:04] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 13:54:04] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:54:04] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:04] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:54:04] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:04] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 13:54:07] ERROR: Ошибка при получении списка изображений: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+[2026-03-15 13:54:07] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:07] "[35m[1mGET /images?page=1&per_page=10 HTTP/1.1[0m" 500 -
+[2026-03-15 13:54:07] ERROR: Ошибка при сохранении файла: a bytes-like object is required, not 'str'
+[2026-03-15 13:54:07] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:07] "[35m[1mPOST /uploads HTTP/1.1[0m" 500 -
+[2026-03-15 13:54:12] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:12] "GET /gallery HTTP/1.1" 200 -
+[2026-03-15 13:54:12] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:54:12] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:12] "[36mGET /static/css/images.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:54:12] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:12] "[36mGET /static/js/images-list.js HTTP/1.1[0m" 304 -
+[2026-03-15 13:54:13] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:13] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 13:54:13] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:54:13] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:13] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:54:13] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:13] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 13:54:15] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:15] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 13:54:15] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:54:15] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:15] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 13:54:15] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:15] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:54:16] ERROR: Ошибка при получении списка изображений: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+[2026-03-15 13:54:16] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:16] "[35m[1mGET /images?page=1&per_page=100 HTTP/1.1[0m" 500 -
+[2026-03-15 13:54:20] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:20] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 13:54:20] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:54:20] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:20] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 13:54:20] INFO: 127.0.0.1 - - [15/Mar/2026 13:54:20] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 11:03:59] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.3:5000
+[2026-03-15 11:03:59] INFO: [33mPress CTRL+C to quit[0m
+[2026-03-15 11:03:59] INFO:  * Restarting with stat
+[2026-03-15 11:01:40] WARNING:  * Debugger is active!
+[2026-03-15 11:01:40] INFO:  * Debugger PIN: 829-434-380
+[2026-03-15 14:04:07] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-03-15 14:04:07] INFO: [33mPress CTRL+C to quit[0m
+[2026-03-15 14:04:07] INFO:  * Restarting with stat
+[2026-03-15 14:04:07] WARNING:  * Debugger is active!
+[2026-03-15 14:04:07] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:04:10] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:10] "GET / HTTP/1.1" 200 -
+[2026-03-15 14:04:10] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:04:10] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:10] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:04:10] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:10] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 14:04:10] ERROR: Ошибка при получении списка изображений: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+[2026-03-15 14:04:10] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:10] "[35m[1mGET /images?page=1&per_page=10 HTTP/1.1[0m" 500 -
+[2026-03-15 14:04:11] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:11] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:04:11] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:04:11] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:11] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:04:11] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:11] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:04:18] ERROR: Ошибка при сохранении файла: a bytes-like object is required, not 'str'
+[2026-03-15 14:04:18] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:18] "[35m[1mPOST /uploads HTTP/1.1[0m" 500 -
+[2026-03-15 14:04:20] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:20] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:04:20] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:04:20] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:20] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:04:20] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:20] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:04:27] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:27] "GET /gallery HTTP/1.1" 200 -
+[2026-03-15 14:04:27] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:04:27] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:27] "[36mGET /static/css/images.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:04:27] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:27] "[36mGET /static/js/images-list.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:04:27] ERROR: Ошибка при получении списка изображений: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+[2026-03-15 14:04:27] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:27] "[35m[1mGET /images?page=1&per_page=100 HTTP/1.1[0m" 500 -
+[2026-03-15 14:04:31] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:31] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:04:31] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:04:31] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:31] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:04:31] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:31] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:04:34] ERROR: Ошибка при сохранении файла: a bytes-like object is required, not 'str'
+[2026-03-15 14:04:34] INFO: 127.0.0.1 - - [15/Mar/2026 14:04:34] "[35m[1mPOST /uploads HTTP/1.1[0m" 500 -
+[2026-03-15 14:05:56] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-03-15 14:05:56] INFO: [33mPress CTRL+C to quit[0m
+[2026-03-15 14:05:56] INFO:  * Restarting with stat
+[2026-03-15 14:05:56] WARNING:  * Debugger is active!
+[2026-03-15 14:05:56] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:05:59] INFO: 127.0.0.1 - - [15/Mar/2026 14:05:59] "GET / HTTP/1.1" 200 -
+[2026-03-15 14:05:59] INFO: 127.0.0.1 - - [15/Mar/2026 14:05:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:05:59] INFO: 127.0.0.1 - - [15/Mar/2026 14:05:59] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 14:05:59] INFO: 127.0.0.1 - - [15/Mar/2026 14:05:59] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:05:59] ERROR: Ошибка при получении списка изображений: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+[2026-03-15 14:05:59] INFO: 127.0.0.1 - - [15/Mar/2026 14:05:59] "[35m[1mGET /images?page=1&per_page=10 HTTP/1.1[0m" 500 -
+[2026-03-15 14:06:00] INFO: 127.0.0.1 - - [15/Mar/2026 14:06:00] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:06:00] INFO: 127.0.0.1 - - [15/Mar/2026 14:06:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:06:00] INFO: 127.0.0.1 - - [15/Mar/2026 14:06:00] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:06:00] INFO: 127.0.0.1 - - [15/Mar/2026 14:06:00] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:06:03] ERROR: Ошибка при сохранении файла: a bytes-like object is required, not 'str'
+[2026-03-15 14:06:03] INFO: 127.0.0.1 - - [15/Mar/2026 14:06:03] "[35m[1mPOST /uploads HTTP/1.1[0m" 500 -
+[2026-03-15 14:11:58] INFO:  * Detected change in 'C:\\Users\\Admin\\Desktop\\ImageServer\\backend\\app.py', reloading
+[2026-03-15 14:11:58] INFO:  * Restarting with stat
+[2026-03-15 14:11:58] WARNING:  * Debugger is active!
+[2026-03-15 14:11:58] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:13:18] INFO:  * Detected change in 'C:\\Users\\Admin\\Desktop\\ImageServer\\backend\\app.py', reloading
+[2026-03-15 14:13:18] INFO:  * Restarting with stat
+[2026-03-15 14:13:18] WARNING:  * Debugger is active!
+[2026-03-15 14:13:18] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:13:59] INFO:  * Detected change in 'C:\\Users\\Admin\\Desktop\\ImageServer\\backend\\app.py', reloading
+[2026-03-15 14:13:59] INFO:  * Restarting with stat
+[2026-03-15 14:13:59] WARNING:  * Debugger is active!
+[2026-03-15 14:13:59] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:15:36] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-03-15 14:15:36] INFO: [33mPress CTRL+C to quit[0m
+[2026-03-15 14:15:36] INFO:  * Restarting with stat
+[2026-03-15 14:15:36] WARNING:  * Debugger is active!
+[2026-03-15 14:15:36] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:15:39] INFO: 127.0.0.1 - - [15/Mar/2026 14:15:39] "GET / HTTP/1.1" 200 -
+[2026-03-15 14:15:39] INFO: 127.0.0.1 - - [15/Mar/2026 14:15:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:15:39] INFO: 127.0.0.1 - - [15/Mar/2026 14:15:39] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:15:39] INFO: 127.0.0.1 - - [15/Mar/2026 14:15:39] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 14:15:39] ERROR: Ошибка при получении списка изображений: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+[2026-03-15 14:15:39] INFO: 127.0.0.1 - - [15/Mar/2026 14:15:39] "[35m[1mGET /images?page=1&per_page=10 HTTP/1.1[0m" 500 -
+[2026-03-15 14:15:42] INFO: 127.0.0.1 - - [15/Mar/2026 14:15:42] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:15:42] INFO: 127.0.0.1 - - [15/Mar/2026 14:15:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:15:42] INFO: 127.0.0.1 - - [15/Mar/2026 14:15:42] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:15:42] INFO: 127.0.0.1 - - [15/Mar/2026 14:15:42] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:15:48] ERROR: Ошибка при сохранении файла: a bytes-like object is required, not 'str'
+[2026-03-15 14:15:48] INFO: 127.0.0.1 - - [15/Mar/2026 14:15:48] "[35m[1mPOST /uploads HTTP/1.1[0m" 500 -
+[2026-03-15 14:17:54] INFO:  * Detected change in 'C:\\Users\\Admin\\Desktop\\ImageServer\\routes.py', reloading
+[2026-03-15 14:17:54] INFO:  * Restarting with stat
+[2026-03-15 14:17:55] WARNING:  * Debugger is active!
+[2026-03-15 14:17:55] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:19:27] INFO:  * Detected change in 'C:\\Users\\Admin\\Desktop\\ImageServer\\database.py', reloading
+[2026-03-15 14:19:27] INFO:  * Restarting with stat
+[2026-03-15 14:19:27] WARNING:  * Debugger is active!
+[2026-03-15 14:19:27] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:19:35] INFO:  * Detected change in 'C:\\Users\\Admin\\Desktop\\ImageServer\\database.py', reloading
+[2026-03-15 14:19:35] INFO:  * Restarting with stat
+[2026-03-15 14:19:36] WARNING:  * Debugger is active!
+[2026-03-15 14:19:36] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:20:20] INFO: 127.0.0.1 - - [15/Mar/2026 14:20:20] "GET / HTTP/1.1" 200 -
+[2026-03-15 14:20:20] INFO: 127.0.0.1 - - [15/Mar/2026 14:20:20] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:20:20] INFO: 127.0.0.1 - - [15/Mar/2026 14:20:20] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 14:20:20] INFO: 127.0.0.1 - - [15/Mar/2026 14:20:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:20:20] ERROR: РћС€РёР±РєР° РїРѕРґРєР»С‡РµРЅРёСЏ Рє Р±Р°Р·Рµ: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+[2026-03-15 14:20:20] INFO: 127.0.0.1 - - [15/Mar/2026 14:20:20] "GET /images?page=1&per_page=10 HTTP/1.1" 200 -
+[2026-03-15 14:20:21] INFO: 127.0.0.1 - - [15/Mar/2026 14:20:21] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:20:21] INFO: 127.0.0.1 - - [15/Mar/2026 14:20:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:20:21] INFO: 127.0.0.1 - - [15/Mar/2026 14:20:21] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:20:21] INFO: 127.0.0.1 - - [15/Mar/2026 14:20:21] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:20:24] INFO: SUCCESS: Файл сохранен: 2fd5d14a-981a-41d5-91ed-5a827505eaec.jpg (оригинальное имя: photo_2025-12-08_21-33-22.jpg)
+[2026-03-15 14:20:24] ERROR: Ошибка при загрузке файла: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+[2026-03-15 14:20:24] INFO: 127.0.0.1 - - [15/Mar/2026 14:20:24] "[35m[1mPOST /uploads HTTP/1.1[0m" 500 -
+[2026-03-15 14:21:01] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-03-15 14:21:01] INFO: [33mPress CTRL+C to quit[0m
+[2026-03-15 14:21:01] INFO:  * Restarting with stat
+[2026-03-15 14:21:01] WARNING:  * Debugger is active!
+[2026-03-15 14:21:01] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:21:03] INFO: 127.0.0.1 - - [15/Mar/2026 14:21:03] "GET / HTTP/1.1" 200 -
+[2026-03-15 14:21:03] INFO: 127.0.0.1 - - [15/Mar/2026 14:21:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:21:03] INFO: 127.0.0.1 - - [15/Mar/2026 14:21:03] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:21:03] INFO: 127.0.0.1 - - [15/Mar/2026 14:21:03] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 14:21:03] ERROR: РћС€РёР±РєР° РїРѕРґРєР»С‡РµРЅРёСЏ Рє Р±Р°Р·Рµ: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+[2026-03-15 14:21:03] INFO: 127.0.0.1 - - [15/Mar/2026 14:21:03] "GET /images?page=1&per_page=10 HTTP/1.1" 200 -
+[2026-03-15 14:21:05] INFO: 127.0.0.1 - - [15/Mar/2026 14:21:05] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:21:05] INFO: 127.0.0.1 - - [15/Mar/2026 14:21:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:21:05] INFO: 127.0.0.1 - - [15/Mar/2026 14:21:05] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:21:05] INFO: 127.0.0.1 - - [15/Mar/2026 14:21:05] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:21:07] INFO: SUCCESS: Файл сохранен: f9a49443-cffd-464b-bb4e-b774ff91ba3d.jpg (оригинальное имя: photo_2025-12-08_21-33-22.jpg)
+[2026-03-15 14:21:07] ERROR: Ошибка при загрузке файла: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+[2026-03-15 14:21:07] INFO: 127.0.0.1 - - [15/Mar/2026 14:21:07] "[35m[1mPOST /uploads HTTP/1.1[0m" 500 -
+[2026-03-15 14:24:51] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-03-15 14:24:51] INFO: [33mPress CTRL+C to quit[0m
+[2026-03-15 14:24:51] INFO:  * Restarting with stat
+[2026-03-15 14:24:51] WARNING:  * Debugger is active!
+[2026-03-15 14:24:51] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:24:52] INFO: 127.0.0.1 - - [15/Mar/2026 14:24:52] "GET / HTTP/1.1" 200 -
+[2026-03-15 14:24:52] INFO: 127.0.0.1 - - [15/Mar/2026 14:24:52] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:24:52] INFO: 127.0.0.1 - - [15/Mar/2026 14:24:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:24:52] INFO: 127.0.0.1 - - [15/Mar/2026 14:24:52] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 14:24:52] ERROR: Ошибка получения изображений из базы данных: relation "images" does not exist
+LINE 3:                     FROM images
+                                 ^
+
+[2026-03-15 14:24:52] INFO: 127.0.0.1 - - [15/Mar/2026 14:24:52] "GET /images?page=1&per_page=10 HTTP/1.1" 200 -
+[2026-03-15 14:24:54] INFO: 127.0.0.1 - - [15/Mar/2026 14:24:54] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:24:54] INFO: 127.0.0.1 - - [15/Mar/2026 14:24:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:24:54] INFO: 127.0.0.1 - - [15/Mar/2026 14:24:54] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:24:54] INFO: 127.0.0.1 - - [15/Mar/2026 14:24:54] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:24:56] INFO: SUCCESS: Файл сохранен: 560d707f-2a99-409a-9a27-7e659e4b4369.jpg (оригинальное имя: photo_2025-12-08_21-33-52.jpg)
+[2026-03-15 14:24:56] ERROR: Ошибка сохранения изображения в базе данных: relation "images" does not exist
+LINE 2:                     INSERT INTO images (filename, original_n...
+                                        ^
+
+[2026-03-15 14:24:56] INFO: 127.0.0.1 - - [15/Mar/2026 14:24:56] "[35m[1mPOST /uploads HTTP/1.1[0m" 500 -
+[2026-03-15 14:25:23] INFO:  * Detected change in 'C:\\Users\\Admin\\Desktop\\ImageServer\\config.py', reloading
+[2026-03-15 14:25:23] INFO:  * Restarting with stat
+[2026-03-15 14:25:23] WARNING:  * Debugger is active!
+[2026-03-15 14:25:23] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:25:27] INFO: 127.0.0.1 - - [15/Mar/2026 14:25:27] "GET / HTTP/1.1" 200 -
+[2026-03-15 14:25:27] INFO: 127.0.0.1 - - [15/Mar/2026 14:25:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:25:27] INFO: 127.0.0.1 - - [15/Mar/2026 14:25:27] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:25:27] INFO: 127.0.0.1 - - [15/Mar/2026 14:25:27] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 14:25:27] ERROR: РћС€РёР±РєР° РїРѕРґРєР»С‡РµРЅРёСЏ Рє Р±Р°Р·Рµ: type object 'Config' has no attribute 'DATABASE_URI'
+[2026-03-15 14:25:27] INFO: 127.0.0.1 - - [15/Mar/2026 14:25:27] "GET /images?page=1&per_page=10 HTTP/1.1" 200 -
+[2026-03-15 14:25:29] INFO: 127.0.0.1 - - [15/Mar/2026 14:25:29] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:25:29] INFO: 127.0.0.1 - - [15/Mar/2026 14:25:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:25:29] INFO: 127.0.0.1 - - [15/Mar/2026 14:25:29] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:25:29] INFO: 127.0.0.1 - - [15/Mar/2026 14:25:29] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:25:31] INFO: SUCCESS: Файл сохранен: be4b237d-7dbf-430e-856d-5b83275e6881.jpg (оригинальное имя: photo_2025-12-08_21-33-52.jpg)
+[2026-03-15 14:25:31] ERROR: Ошибка при загрузке файла: type object 'Config' has no attribute 'DATABASE_URI'
+[2026-03-15 14:25:31] INFO: 127.0.0.1 - - [15/Mar/2026 14:25:31] "[35m[1mPOST /uploads HTTP/1.1[0m" 500 -
+[2026-03-15 14:25:52] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-03-15 14:25:52] INFO: [33mPress CTRL+C to quit[0m
+[2026-03-15 14:25:52] INFO:  * Restarting with stat
+[2026-03-15 14:25:52] WARNING:  * Debugger is active!
+[2026-03-15 14:25:52] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:25:54] INFO: 127.0.0.1 - - [15/Mar/2026 14:25:54] "GET / HTTP/1.1" 200 -
+[2026-03-15 14:25:54] INFO: 127.0.0.1 - - [15/Mar/2026 14:25:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:25:54] INFO: 127.0.0.1 - - [15/Mar/2026 14:25:54] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:25:54] INFO: 127.0.0.1 - - [15/Mar/2026 14:25:54] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 14:25:54] ERROR: РћС€РёР±РєР° РїРѕРґРєР»С‡РµРЅРёСЏ Рє Р±Р°Р·Рµ: type object 'Config' has no attribute 'DATABASE_URI'
+[2026-03-15 14:25:54] INFO: 127.0.0.1 - - [15/Mar/2026 14:25:54] "GET /images?page=1&per_page=10 HTTP/1.1" 200 -
+[2026-03-15 14:25:55] INFO: 127.0.0.1 - - [15/Mar/2026 14:25:55] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:25:55] INFO: 127.0.0.1 - - [15/Mar/2026 14:25:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:25:55] INFO: 127.0.0.1 - - [15/Mar/2026 14:25:55] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:25:55] INFO: 127.0.0.1 - - [15/Mar/2026 14:25:55] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:25:59] INFO: SUCCESS: Файл сохранен: 1615ab38-9f9c-4a68-a973-9507171739b1.jpg (оригинальное имя: photo_2025-12-08_21-33-22.jpg)
+[2026-03-15 14:25:59] ERROR: Ошибка при загрузке файла: type object 'Config' has no attribute 'DATABASE_URI'
+[2026-03-15 14:25:59] INFO: 127.0.0.1 - - [15/Mar/2026 14:25:59] "[35m[1mPOST /uploads HTTP/1.1[0m" 500 -
+[2026-03-15 14:27:08] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-03-15 14:27:08] INFO: [33mPress CTRL+C to quit[0m
+[2026-03-15 14:27:08] INFO:  * Restarting with stat
+[2026-03-15 14:27:09] WARNING:  * Debugger is active!
+[2026-03-15 14:27:09] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:27:10] INFO: 127.0.0.1 - - [15/Mar/2026 14:27:10] "GET / HTTP/1.1" 200 -
+[2026-03-15 14:27:10] INFO: 127.0.0.1 - - [15/Mar/2026 14:27:10] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:27:10] INFO: 127.0.0.1 - - [15/Mar/2026 14:27:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:27:10] INFO: 127.0.0.1 - - [15/Mar/2026 14:27:10] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 14:27:10] ERROR: РћС€РёР±РєР° РїРѕРґРєР»С‡РµРЅРёСЏ Рє Р±Р°Р·Рµ: type object 'Config' has no attribute 'DATABASE_URI'
+[2026-03-15 14:27:10] INFO: 127.0.0.1 - - [15/Mar/2026 14:27:10] "GET /images?page=1&per_page=10 HTTP/1.1" 200 -
+[2026-03-15 14:27:13] INFO: 127.0.0.1 - - [15/Mar/2026 14:27:13] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:27:13] INFO: 127.0.0.1 - - [15/Mar/2026 14:27:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:27:13] INFO: 127.0.0.1 - - [15/Mar/2026 14:27:13] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:27:13] INFO: 127.0.0.1 - - [15/Mar/2026 14:27:13] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:27:15] INFO: SUCCESS: Файл сохранен: f5ae14e5-cf87-4259-ab06-eb1b0cddba9a.jpg (оригинальное имя: photo_2025-12-08_21-33-22.jpg)
+[2026-03-15 14:27:15] ERROR: Ошибка при загрузке файла: type object 'Config' has no attribute 'DATABASE_URI'
+[2026-03-15 14:27:15] INFO: 127.0.0.1 - - [15/Mar/2026 14:27:15] "[35m[1mPOST /uploads HTTP/1.1[0m" 500 -
+[2026-03-15 14:27:39] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-03-15 14:27:39] INFO: [33mPress CTRL+C to quit[0m
+[2026-03-15 14:27:39] INFO:  * Restarting with stat
+[2026-03-15 14:27:39] WARNING:  * Debugger is active!
+[2026-03-15 14:27:39] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:27:41] INFO: 127.0.0.1 - - [15/Mar/2026 14:27:41] "GET / HTTP/1.1" 200 -
+[2026-03-15 14:27:41] INFO: 127.0.0.1 - - [15/Mar/2026 14:27:41] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 14:27:41] INFO: 127.0.0.1 - - [15/Mar/2026 14:27:41] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:27:41] INFO: 127.0.0.1 - - [15/Mar/2026 14:27:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:27:41] ERROR: РћС€РёР±РєР° РїРѕРґРєР»С‡РµРЅРёСЏ Рє Р±Р°Р·Рµ: type object 'Config' has no attribute 'DATABASE_URI'
+[2026-03-15 14:27:41] INFO: 127.0.0.1 - - [15/Mar/2026 14:27:41] "GET /images?page=1&per_page=10 HTTP/1.1" 200 -
+[2026-03-15 14:27:50] INFO: 127.0.0.1 - - [15/Mar/2026 14:27:50] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:27:50] INFO: 127.0.0.1 - - [15/Mar/2026 14:27:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:27:50] INFO: 127.0.0.1 - - [15/Mar/2026 14:27:50] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:27:50] INFO: 127.0.0.1 - - [15/Mar/2026 14:27:50] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:27:53] INFO: SUCCESS: Файл сохранен: 39d49d30-a5e5-4403-883c-8858ce2cc9f8.jpg (оригинальное имя: photo_2025-12-08_21-33-22.jpg)
+[2026-03-15 14:27:53] ERROR: Ошибка при загрузке файла: type object 'Config' has no attribute 'DATABASE_URI'
+[2026-03-15 14:27:53] INFO: 127.0.0.1 - - [15/Mar/2026 14:27:53] "[35m[1mPOST /uploads HTTP/1.1[0m" 500 -
+[2026-03-15 14:29:59] INFO:  * Detected change in 'C:\\Users\\Admin\\Desktop\\ImageServer\\config.py', reloading
+[2026-03-15 14:29:59] INFO:  * Restarting with stat
+[2026-03-15 14:29:59] WARNING:  * Debugger is active!
+[2026-03-15 14:29:59] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:30:11] INFO:  * Detected change in 'C:\\Users\\Admin\\Desktop\\ImageServer\\backend\\backup.py', reloading
+[2026-03-15 14:30:11] INFO:  * Restarting with stat
+[2026-03-15 14:30:11] WARNING:  * Debugger is active!
+[2026-03-15 14:30:11] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:31:02] INFO:  * Detected change in 'C:\\Users\\Admin\\Desktop\\ImageServer\\backend\\config.py', reloading
+[2026-03-15 14:31:02] INFO:  * Restarting with stat
+[2026-03-15 14:31:02] WARNING:  * Debugger is active!
+[2026-03-15 14:31:02] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:31:48] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-03-15 14:31:48] INFO: [33mPress CTRL+C to quit[0m
+[2026-03-15 14:31:48] INFO:  * Restarting with stat
+[2026-03-15 14:31:48] WARNING:  * Debugger is active!
+[2026-03-15 14:31:48] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:31:50] INFO: 127.0.0.1 - - [15/Mar/2026 14:31:50] "GET / HTTP/1.1" 200 -
+[2026-03-15 14:31:50] INFO: 127.0.0.1 - - [15/Mar/2026 14:31:50] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:31:50] INFO: 127.0.0.1 - - [15/Mar/2026 14:31:50] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 14:31:50] INFO: 127.0.0.1 - - [15/Mar/2026 14:31:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:31:50] ERROR: Ошибка получения изображений из базы данных: relation "images" does not exist
+LINE 3:                     FROM images
+                                 ^
+
+[2026-03-15 14:31:50] INFO: 127.0.0.1 - - [15/Mar/2026 14:31:50] "GET /images?page=1&per_page=10 HTTP/1.1" 200 -
+[2026-03-15 14:31:58] INFO: 127.0.0.1 - - [15/Mar/2026 14:31:58] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:31:58] INFO: 127.0.0.1 - - [15/Mar/2026 14:31:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:31:58] INFO: 127.0.0.1 - - [15/Mar/2026 14:31:58] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:31:58] INFO: 127.0.0.1 - - [15/Mar/2026 14:31:58] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:32:01] INFO: SUCCESS: Файл сохранен: dd3c49d7-d742-49b3-9eb5-2c2f32cfe62f.jpg (оригинальное имя: photo_2025-12-08_21-33-22.jpg)
+[2026-03-15 14:32:01] ERROR: Ошибка сохранения изображения в базе данных: relation "images" does not exist
+LINE 2:                     INSERT INTO images (filename, original_n...
+                                        ^
+
+[2026-03-15 14:32:01] INFO: 127.0.0.1 - - [15/Mar/2026 14:32:01] "[35m[1mPOST /uploads HTTP/1.1[0m" 500 -
+[2026-03-15 14:33:50] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-03-15 14:33:50] INFO: [33mPress CTRL+C to quit[0m
+[2026-03-15 14:33:50] INFO:  * Restarting with stat
+[2026-03-15 14:33:50] WARNING:  * Debugger is active!
+[2026-03-15 14:33:50] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:33:51] INFO: 127.0.0.1 - - [15/Mar/2026 14:33:51] "GET / HTTP/1.1" 200 -
+[2026-03-15 14:33:51] INFO: 127.0.0.1 - - [15/Mar/2026 14:33:51] "GET / HTTP/1.1" 200 -
+[2026-03-15 14:33:51] INFO: 127.0.0.1 - - [15/Mar/2026 14:33:51] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:33:51] INFO: 127.0.0.1 - - [15/Mar/2026 14:33:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:33:51] INFO: 127.0.0.1 - - [15/Mar/2026 14:33:51] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 14:33:51] INFO: 127.0.0.1 - - [15/Mar/2026 14:33:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:33:51] INFO: 127.0.0.1 - - [15/Mar/2026 14:33:51] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:33:51] INFO: 127.0.0.1 - - [15/Mar/2026 14:33:51] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 14:33:51] ERROR: Ошибка получения изображений из базы данных: relation "images" does not exist
+LINE 3:                     FROM images
+                                 ^
+
+[2026-03-15 14:33:51] INFO: 127.0.0.1 - - [15/Mar/2026 14:33:51] "GET /images?page=1&per_page=10 HTTP/1.1" 200 -
+[2026-03-15 14:33:51] ERROR: Ошибка получения изображений из базы данных: relation "images" does not exist
+LINE 3:                     FROM images
+                                 ^
+
+[2026-03-15 14:33:51] INFO: 127.0.0.1 - - [15/Mar/2026 14:33:51] "GET /images?page=1&per_page=10 HTTP/1.1" 200 -
+[2026-03-15 14:33:54] INFO: 127.0.0.1 - - [15/Mar/2026 14:33:54] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:33:54] INFO: 127.0.0.1 - - [15/Mar/2026 14:33:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:33:54] INFO: 127.0.0.1 - - [15/Mar/2026 14:33:54] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:33:54] INFO: 127.0.0.1 - - [15/Mar/2026 14:33:54] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:33:57] INFO: SUCCESS: Файл сохранен: 22cdbf67-303f-4751-a4c0-80210ef3493e.jpg (оригинальное имя: photo_2025-12-08_21-33-52.jpg)
+[2026-03-15 14:33:57] ERROR: Ошибка сохранения изображения в базе данных: relation "images" does not exist
+LINE 2:                     INSERT INTO images (filename, original_n...
+                                        ^
+
+[2026-03-15 14:33:57] INFO: 127.0.0.1 - - [15/Mar/2026 14:33:57] "[35m[1mPOST /uploads HTTP/1.1[0m" 500 -
+[2026-03-15 14:34:49] INFO:  * Detected change in 'C:\\Users\\Admin\\Desktop\\ImageServer\\app.py', reloading
+[2026-03-15 14:34:49] INFO:  * Restarting with stat
+[2026-03-15 14:34:50] INFO: База данных и таблица 'images' успешно инициализированы.
+[2026-03-15 14:34:50] WARNING:  * Debugger is active!
+[2026-03-15 14:34:50] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:38:02] INFO:  * Detected change in 'C:\\Users\\Admin\\Desktop\\ImageServer\\database.py', reloading
+[2026-03-15 14:38:02] INFO:  * Restarting with stat
+[2026-03-15 14:40:36] INFO: Database and 'images' table initialized.
+[2026-03-15 14:40:36] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-03-15 14:40:36] INFO: [33mPress CTRL+C to quit[0m
+[2026-03-15 14:40:36] INFO:  * Restarting with stat
+[2026-03-15 14:40:36] INFO: Database and 'images' table initialized.
+[2026-03-15 14:40:36] WARNING:  * Debugger is active!
+[2026-03-15 14:40:36] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:40:38] INFO: 127.0.0.1 - - [15/Mar/2026 14:40:38] "GET / HTTP/1.1" 200 -
+[2026-03-15 14:40:38] INFO: 127.0.0.1 - - [15/Mar/2026 14:40:38] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 14:40:38] INFO: 127.0.0.1 - - [15/Mar/2026 14:40:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:40:38] INFO: 127.0.0.1 - - [15/Mar/2026 14:40:38] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:40:38] ERROR: Error fetching images from DB: column "upload_time" does not exist
+LINE 4: ...                   ORDER BY COALESCE(upload_date, upload_tim...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "images.upload_date".
+
+[2026-03-15 14:40:38] INFO: 127.0.0.1 - - [15/Mar/2026 14:40:38] "GET /images?page=1&per_page=10 HTTP/1.1" 200 -
+[2026-03-15 14:40:45] INFO: 127.0.0.1 - - [15/Mar/2026 14:40:45] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:40:45] INFO: 127.0.0.1 - - [15/Mar/2026 14:40:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:40:45] INFO: 127.0.0.1 - - [15/Mar/2026 14:40:45] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:40:45] INFO: 127.0.0.1 - - [15/Mar/2026 14:40:45] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:40:48] INFO: SUCCESS: Файл сохранен: 729900b6-62cc-440a-8669-d8d6c764957e.jpg (оригинальное имя: photo_2025-12-08_21-33-22.jpg)
+[2026-03-15 14:40:48] ERROR: Error saving image to DB: 0
+[2026-03-15 14:40:48] INFO: 127.0.0.1 - - [15/Mar/2026 14:40:48] "[35m[1mPOST /uploads HTTP/1.1[0m" 500 -
+[2026-03-15 14:41:10] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:10] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:41:10] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:41:10] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:10] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:41:10] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:10] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:41:15] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:15] "GET /gallery HTTP/1.1" 200 -
+[2026-03-15 14:41:15] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:41:15] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:15] "[36mGET /static/css/images.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:41:15] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:15] "[36mGET /static/js/images-list.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:41:15] ERROR: Error fetching images from DB: column "upload_time" does not exist
+LINE 4: ...                   ORDER BY COALESCE(upload_date, upload_tim...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "images.upload_date".
+
+[2026-03-15 14:41:15] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:15] "GET /images?page=1&per_page=100 HTTP/1.1" 200 -
+[2026-03-15 14:41:17] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:17] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:41:17] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:41:17] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:17] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:41:17] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:17] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:41:17] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:17] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:41:17] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:41:17] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:17] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:41:17] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:17] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:41:49] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:49] "GET /gallery HTTP/1.1" 200 -
+[2026-03-15 14:41:49] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:41:49] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:49] "[36mGET /static/css/images.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:41:49] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:49] "[36mGET /static/js/images-list.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:41:49] ERROR: Error fetching images from DB: column "upload_time" does not exist
+LINE 4: ...                   ORDER BY COALESCE(upload_date, upload_tim...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "images.upload_date".
+
+[2026-03-15 14:41:49] INFO: 127.0.0.1 - - [15/Mar/2026 14:41:49] "GET /images?page=1&per_page=100 HTTP/1.1" 200 -
+[2026-03-15 14:43:40] INFO: Database and 'images' table initialized.
+[2026-03-15 14:43:40] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-03-15 14:43:40] INFO: [33mPress CTRL+C to quit[0m
+[2026-03-15 14:43:40] INFO:  * Restarting with stat
+[2026-03-15 14:43:40] INFO: Database and 'images' table initialized.
+[2026-03-15 14:43:40] WARNING:  * Debugger is active!
+[2026-03-15 14:43:40] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:43:44] INFO: 127.0.0.1 - - [15/Mar/2026 14:43:44] "GET / HTTP/1.1" 200 -
+[2026-03-15 14:43:44] INFO: 127.0.0.1 - - [15/Mar/2026 14:43:44] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 14:43:44] INFO: 127.0.0.1 - - [15/Mar/2026 14:43:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:43:44] INFO: 127.0.0.1 - - [15/Mar/2026 14:43:44] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:43:44] INFO: 127.0.0.1 - - [15/Mar/2026 14:43:44] "GET /images?page=1&per_page=10 HTTP/1.1" 200 -
+[2026-03-15 14:43:45] INFO: 127.0.0.1 - - [15/Mar/2026 14:43:45] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:43:45] INFO: 127.0.0.1 - - [15/Mar/2026 14:43:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:43:45] INFO: 127.0.0.1 - - [15/Mar/2026 14:43:45] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:43:45] INFO: 127.0.0.1 - - [15/Mar/2026 14:43:45] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:43:48] INFO: SUCCESS: Файл сохранен: 649e25ef-d20c-4134-bbe1-1dff4466733b.jpg (оригинальное имя: photo_2025-12-08_21-33-22.jpg)
+[2026-03-15 14:43:48] ERROR: Error saving image to DB: 0
+[2026-03-15 14:43:48] INFO: 127.0.0.1 - - [15/Mar/2026 14:43:48] "[35m[1mPOST /uploads HTTP/1.1[0m" 500 -
+[2026-03-15 14:44:25] INFO:  * Detected change in 'C:\\Users\\Admin\\Desktop\\ImageServer\\database.py', reloading
+[2026-03-15 14:44:25] INFO:  * Restarting with stat
+[2026-03-15 14:44:25] INFO: Database and 'images' table initialized.
+[2026-03-15 14:44:25] WARNING:  * Debugger is active!
+[2026-03-15 14:44:25] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:44:27] INFO:  * Detected change in 'C:\\Users\\Admin\\Desktop\\ImageServer\\backend\\database.py', reloading
+[2026-03-15 14:44:27] INFO:  * Restarting with stat
+[2026-03-15 14:44:27] INFO: Database and 'images' table initialized.
+[2026-03-15 14:44:27] WARNING:  * Debugger is active!
+[2026-03-15 14:44:27] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:45:09] INFO: Database and 'images' table initialized.
+[2026-03-15 14:45:09] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-03-15 14:45:09] INFO: [33mPress CTRL+C to quit[0m
+[2026-03-15 14:45:09] INFO:  * Restarting with stat
+[2026-03-15 14:45:09] INFO: Database and 'images' table initialized.
+[2026-03-15 14:45:09] WARNING:  * Debugger is active!
+[2026-03-15 14:45:09] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:45:11] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:11] "GET / HTTP/1.1" 200 -
+[2026-03-15 14:45:11] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:11] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:11] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:11] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:11] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:11] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:11] "GET /images?page=1&per_page=10 HTTP/1.1" 200 -
+[2026-03-15 14:45:12] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:12] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:45:12] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:12] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:12] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:12] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:12] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:15] INFO: SUCCESS: Файл сохранен: c07c62d0-e21d-4d2e-8517-d0f8d09e7b31.jpg (оригинальное имя: photo_2025-12-08_21-33-22.jpg)
+[2026-03-15 14:45:15] INFO: SUCCESS: Image 'c07c62d0-e21d-4d2e-8517-d0f8d09e7b31.jpg' saved to DB with ID 3.
+[2026-03-15 14:45:15] INFO: SUCCESS: Файл 'photo_2025-12-08_21-33-22.jpg' успешно загружен с ID 3.
+[2026-03-15 14:45:15] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:15] "[35m[1mPOST /uploads HTTP/1.1[0m" 201 -
+[2026-03-15 14:45:23] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:23] "GET /gallery HTTP/1.1" 200 -
+[2026-03-15 14:45:23] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:23] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:23] "[36mGET /static/css/images.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:23] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:23] "[36mGET /static/js/images-list.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:23] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:23] "GET /images?page=1&per_page=100 HTTP/1.1" 200 -
+[2026-03-15 14:45:24] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:24] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:45:24] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:24] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:24] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:24] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:24] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:27] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:27] "GET /gallery HTTP/1.1" 200 -
+[2026-03-15 14:45:27] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:27] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:27] "[36mGET /static/css/images.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:27] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:27] "[36mGET /static/js/images-list.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:27] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:27] "GET /images?page=1&per_page=100 HTTP/1.1" 200 -
+[2026-03-15 14:45:27] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:27] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:45:27] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:27] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:27] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:27] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:27] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:28] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:28] "GET /gallery HTTP/1.1" 200 -
+[2026-03-15 14:45:28] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:28] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:28] "[36mGET /static/css/images.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:28] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:28] "[36mGET /static/js/images-list.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:28] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:28] "GET /images?page=1&per_page=100 HTTP/1.1" 200 -
+[2026-03-15 14:45:32] INFO: SUCCESS: Image with ID 3 deleted from DB.
+[2026-03-15 14:45:32] INFO: SUCCESS: Изображение с ID 3 успешно удалено
+[2026-03-15 14:45:32] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:32] "DELETE /images/3 HTTP/1.1" 200 -
+[2026-03-15 14:45:33] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:33] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:45:33] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:33] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:33] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:33] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:33] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:38] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:38] "GET /gallery HTTP/1.1" 200 -
+[2026-03-15 14:45:38] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:38] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:38] "[36mGET /static/css/images.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:38] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:38] "[36mGET /static/js/images-list.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:38] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:38] "GET /images?page=1&per_page=100 HTTP/1.1" 200 -
+[2026-03-15 14:45:38] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:38] "GET /gallery HTTP/1.1" 200 -
+[2026-03-15 14:45:38] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:38] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:38] "[36mGET /static/css/images.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:38] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:38] "[36mGET /static/js/images-list.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:45:38] INFO: 127.0.0.1 - - [15/Mar/2026 14:45:38] "GET /images?page=1&per_page=100 HTTP/1.1" 200 -
+[2026-03-15 14:48:42] INFO: Database and 'images' table initialized.
+[2026-03-15 14:48:42] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-03-15 14:48:42] INFO: [33mPress CTRL+C to quit[0m
+[2026-03-15 14:48:42] INFO:  * Restarting with stat
+[2026-03-15 14:48:42] INFO: Database and 'images' table initialized.
+[2026-03-15 14:48:42] WARNING:  * Debugger is active!
+[2026-03-15 14:48:42] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:48:50] INFO: 127.0.0.1 - - [15/Mar/2026 14:48:50] "GET / HTTP/1.1" 200 -
+[2026-03-15 14:48:50] INFO: 127.0.0.1 - - [15/Mar/2026 14:48:50] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:48:50] INFO: 127.0.0.1 - - [15/Mar/2026 14:48:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:48:50] INFO: 127.0.0.1 - - [15/Mar/2026 14:48:50] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 14:48:50] INFO: 127.0.0.1 - - [15/Mar/2026 14:48:50] "GET /images?page=1&per_page=10 HTTP/1.1" 200 -
+[2026-03-15 14:48:51] INFO: 127.0.0.1 - - [15/Mar/2026 14:48:51] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:48:51] INFO: 127.0.0.1 - - [15/Mar/2026 14:48:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:48:51] INFO: 127.0.0.1 - - [15/Mar/2026 14:48:51] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:48:51] INFO: 127.0.0.1 - - [15/Mar/2026 14:48:51] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:48:52] INFO: 127.0.0.1 - - [15/Mar/2026 14:48:52] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:48:52] INFO: 127.0.0.1 - - [15/Mar/2026 14:48:52] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:48:52] INFO: 127.0.0.1 - - [15/Mar/2026 14:48:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:48:52] INFO: 127.0.0.1 - - [15/Mar/2026 14:48:52] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:49:03] INFO: 127.0.0.1 - - [15/Mar/2026 14:49:03] "GET /gallery HTTP/1.1" 200 -
+[2026-03-15 14:49:03] INFO: 127.0.0.1 - - [15/Mar/2026 14:49:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:49:03] INFO: 127.0.0.1 - - [15/Mar/2026 14:49:03] "[36mGET /static/css/images.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:49:03] INFO: 127.0.0.1 - - [15/Mar/2026 14:49:03] "[36mGET /static/js/images-list.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:49:03] INFO: 127.0.0.1 - - [15/Mar/2026 14:49:03] "GET /images?page=1&per_page=100 HTTP/1.1" 200 -
+[2026-03-15 14:49:04] INFO: 127.0.0.1 - - [15/Mar/2026 14:49:04] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:49:04] INFO: 127.0.0.1 - - [15/Mar/2026 14:49:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:49:04] INFO: 127.0.0.1 - - [15/Mar/2026 14:49:04] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:49:04] INFO: 127.0.0.1 - - [15/Mar/2026 14:49:04] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:49:04] INFO: 127.0.0.1 - - [15/Mar/2026 14:49:04] "GET /gallery HTTP/1.1" 200 -
+[2026-03-15 14:49:04] INFO: 127.0.0.1 - - [15/Mar/2026 14:49:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:49:04] INFO: 127.0.0.1 - - [15/Mar/2026 14:49:04] "[36mGET /static/js/images-list.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:49:04] INFO: 127.0.0.1 - - [15/Mar/2026 14:49:04] "[36mGET /static/css/images.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:49:05] INFO: 127.0.0.1 - - [15/Mar/2026 14:49:05] "GET /images?page=1&per_page=100 HTTP/1.1" 200 -
+[2026-03-15 14:49:06] INFO: 127.0.0.1 - - [15/Mar/2026 14:49:06] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:49:06] INFO: 127.0.0.1 - - [15/Mar/2026 14:49:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:49:06] INFO: 127.0.0.1 - - [15/Mar/2026 14:49:06] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:49:06] INFO: 127.0.0.1 - - [15/Mar/2026 14:49:06] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:52:37] INFO: Database and 'images' table initialized.
+[2026-03-15 14:52:37] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-03-15 14:52:37] INFO: [33mPress CTRL+C to quit[0m
+[2026-03-15 14:52:37] INFO:  * Restarting with stat
+[2026-03-15 14:52:37] INFO: Database and 'images' table initialized.
+[2026-03-15 14:52:37] WARNING:  * Debugger is active!
+[2026-03-15 14:52:37] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:52:40] INFO: 127.0.0.1 - - [15/Mar/2026 14:52:40] "GET / HTTP/1.1" 200 -
+[2026-03-15 14:52:40] INFO: 127.0.0.1 - - [15/Mar/2026 14:52:40] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 14:52:40] INFO: 127.0.0.1 - - [15/Mar/2026 14:52:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:52:40] INFO: 127.0.0.1 - - [15/Mar/2026 14:52:40] "GET /static/js/index.js HTTP/1.1" 200 -
+[2026-03-15 14:52:40] INFO: 127.0.0.1 - - [15/Mar/2026 14:52:40] "GET /images/random HTTP/1.1" 200 -
+[2026-03-15 14:52:40] INFO: 127.0.0.1 - - [15/Mar/2026 14:52:40] "GET /images/1615ab38-9f9c-4a68-a973-9507171739b1.jpg HTTP/1.1" 200 -
+[2026-03-15 14:52:46] INFO: 127.0.0.1 - - [15/Mar/2026 14:52:46] "GET /images/f9a49443-cffd-464b-bb4e-b774ff91ba3d.jpg HTTP/1.1" 200 -
+[2026-03-15 14:52:52] INFO: 127.0.0.1 - - [15/Mar/2026 14:52:52] "GET /images/c07c62d0-e21d-4d2e-8517-d0f8d09e7b31.jpg HTTP/1.1" 200 -
+[2026-03-15 14:52:56] INFO: 127.0.0.1 - - [15/Mar/2026 14:52:56] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:52:57] INFO: 127.0.0.1 - - [15/Mar/2026 14:52:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:52:57] INFO: 127.0.0.1 - - [15/Mar/2026 14:52:57] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:52:57] INFO: 127.0.0.1 - - [15/Mar/2026 14:52:57] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:53:00] INFO: SUCCESS: Файл сохранен: 29363319-bd2a-4540-b0ca-a1c3e824ffa2.jpg (оригинальное имя: photo_2025-12-08_21-15-48.jpg)
+[2026-03-15 14:53:00] INFO: SUCCESS: Image '29363319-bd2a-4540-b0ca-a1c3e824ffa2.jpg' saved to DB with ID 4.
+[2026-03-15 14:53:00] INFO: SUCCESS: Файл 'photo_2025-12-08_21-15-48.jpg' успешно загружен с ID 4.
+[2026-03-15 14:53:00] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:00] "[35m[1mPOST /uploads HTTP/1.1[0m" 201 -
+[2026-03-15 14:53:02] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:02] "GET /gallery HTTP/1.1" 200 -
+[2026-03-15 14:53:02] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:53:02] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:02] "[36mGET /static/js/images-list.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:53:03] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:03] "[36mGET /static/css/images.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:53:03] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:03] "GET /images?page=1&per_page=100 HTTP/1.1" 200 -
+[2026-03-15 14:53:04] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:04] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:53:04] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:53:04] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:04] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:53:04] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:04] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:53:11] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:11] "GET / HTTP/1.1" 200 -
+[2026-03-15 14:53:11] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:53:11] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:11] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 14:53:11] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:11] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:53:11] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:11] "GET /images/random HTTP/1.1" 200 -
+[2026-03-15 14:53:11] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:11] "GET /images/f5ae14e5-cf87-4259-ab06-eb1b0cddba9a.jpg HTTP/1.1" 200 -
+[2026-03-15 14:53:16] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:16] "GET /gallery HTTP/1.1" 200 -
+[2026-03-15 14:53:16] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:53:16] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:16] "[36mGET /static/css/images.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:53:16] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:16] "[36mGET /static/js/images-list.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:53:16] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:16] "GET /images?page=1&per_page=100 HTTP/1.1" 200 -
+[2026-03-15 14:53:20] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:20] "[36mGET /images/c07c62d0-e21d-4d2e-8517-d0f8d09e7b31.jpg HTTP/1.1[0m" 304 -
+[2026-03-15 14:53:23] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:23] "GET /images/be4b237d-7dbf-430e-856d-5b83275e6881.jpg HTTP/1.1" 200 -
+[2026-03-15 14:53:29] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:29] "GET /images/39d49d30-a5e5-4403-883c-8858ce2cc9f8.jpg HTTP/1.1" 200 -
+[2026-03-15 14:53:35] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:35] "GET /images/29363319-bd2a-4540-b0ca-a1c3e824ffa2.jpg HTTP/1.1" 200 -
+[2026-03-15 14:53:41] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:41] "GET /images/2fd5d14a-981a-41d5-91ed-5a827505eaec.jpg HTTP/1.1" 200 -
+[2026-03-15 14:53:47] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:47] "[36mGET /images/f9a49443-cffd-464b-bb4e-b774ff91ba3d.jpg HTTP/1.1[0m" 304 -
+[2026-03-15 14:53:53] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:53] "[36mGET /images/1615ab38-9f9c-4a68-a973-9507171739b1.jpg HTTP/1.1[0m" 304 -
+[2026-03-15 14:53:59] INFO: 127.0.0.1 - - [15/Mar/2026 14:53:59] "[36mGET /images/f5ae14e5-cf87-4259-ab06-eb1b0cddba9a.jpg HTTP/1.1[0m" 304 -
+[2026-03-15 14:54:11] INFO: 127.0.0.1 - - [15/Mar/2026 14:54:11] "[36mGET /images/be4b237d-7dbf-430e-856d-5b83275e6881.jpg HTTP/1.1[0m" 304 -
+[2026-03-15 14:55:17] INFO: Database and 'images' table initialized.
+[2026-03-15 14:55:17] INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2026-03-15 14:55:17] INFO: [33mPress CTRL+C to quit[0m
+[2026-03-15 14:55:17] INFO:  * Restarting with stat
+[2026-03-15 14:55:17] INFO: Database and 'images' table initialized.
+[2026-03-15 14:55:17] WARNING:  * Debugger is active!
+[2026-03-15 14:55:17] INFO:  * Debugger PIN: 124-454-535
+[2026-03-15 14:55:19] INFO: 127.0.0.1 - - [15/Mar/2026 14:55:19] "GET / HTTP/1.1" 200 -
+[2026-03-15 14:55:19] INFO: 127.0.0.1 - - [15/Mar/2026 14:55:19] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+[2026-03-15 14:55:19] INFO: 127.0.0.1 - - [15/Mar/2026 14:55:19] "[36mGET /static/images/1.png HTTP/1.1[0m" 304 -
+[2026-03-15 14:55:19] INFO: 127.0.0.1 - - [15/Mar/2026 14:55:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:55:19] INFO: 127.0.0.1 - - [15/Mar/2026 14:55:19] "GET /images/random HTTP/1.1" 200 -
+[2026-03-15 14:55:25] INFO: 127.0.0.1 - - [15/Mar/2026 14:55:25] "[36mGET /images/be4b237d-7dbf-430e-856d-5b83275e6881.jpg HTTP/1.1[0m" 304 -
+[2026-03-15 14:55:31] INFO: 127.0.0.1 - - [15/Mar/2026 14:55:31] "[36mGET /images/f5ae14e5-cf87-4259-ab06-eb1b0cddba9a.jpg HTTP/1.1[0m" 304 -
+[2026-03-15 14:55:37] INFO: 127.0.0.1 - - [15/Mar/2026 14:55:37] "[36mGET /images/c07c62d0-e21d-4d2e-8517-d0f8d09e7b31.jpg HTTP/1.1[0m" 304 -
+[2026-03-15 14:55:43] INFO: 127.0.0.1 - - [15/Mar/2026 14:55:43] "GET /static/images/2.png HTTP/1.1" 200 -
+[2026-03-15 14:55:49] INFO: 127.0.0.1 - - [15/Mar/2026 14:55:49] "[36mGET /images/2fd5d14a-981a-41d5-91ed-5a827505eaec.jpg HTTP/1.1[0m" 304 -
+[2026-03-15 14:55:50] INFO: 127.0.0.1 - - [15/Mar/2026 14:55:50] "GET /upload HTTP/1.1" 200 -
+[2026-03-15 14:55:50] INFO: 127.0.0.1 - - [15/Mar/2026 14:55:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:55:50] INFO: 127.0.0.1 - - [15/Mar/2026 14:55:50] "[36mGET /static/css/upload_style.css HTTP/1.1[0m" 304 -
+[2026-03-15 14:55:50] INFO: 127.0.0.1 - - [15/Mar/2026 14:55:50] "[36mGET /static/js/upload.js HTTP/1.1[0m" 304 -

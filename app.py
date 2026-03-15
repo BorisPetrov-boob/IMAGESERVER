@@ -15,11 +15,10 @@ def create_app():
     CORS(app)
     
     with app.app_context():
-    
         setup_logging()
+        Database.init_db()
     
     ensure_directories()
-    ##Database.init_db()
     
     print("Инициализация базы данных...")
     print("Директории созданы и настроены.")

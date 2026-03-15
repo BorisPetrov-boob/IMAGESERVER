@@ -1,13 +1,13 @@
 from config import Config
+import os
+import random
 from models import Image
 from utils import (log_error, 
                    log_info, log_success, 
-                   is_allowed_extension,
-                   is_valid_file_size, save_file, delete_file, save_file, format_file_size, get_file_extension
-
+                   is_allowed_extension, save_file, delete_file, format_file_size, get_file_extension
 )
 from database import Database
-from flask import render_template, request, jsonify, redirect, url_for, send_from_directory
+from flask import render_template, request, jsonify, send_from_directory
 from werkzeug.utils import secure_filename
 
 
@@ -18,6 +18,40 @@ def register_routes(app):
     @app.route('/')
     def index():
         return render_template("index.html")
+    
+    
+    @app.route('/upload', methods=['GET'])
+    def upload_page():
+        return render_template("upload_form.html")
+
+    @app.route('/gallery', methods=['GET'])
+    def gallery_page():
+        return render_template("images.html")
+
+    @app.route('/images/random', methods=['GET'])
+    def random_images():
+        try:
+            upload_files = [
+                f for f in os.listdir(Config.UPLOAD_FOLDER)
+                if is_allowed_extension(f)
+            ]
+            static_dir = os.path.join(app.static_folder or 'static', 'images')
+            static_files = []
+            if os.path.isdir(static_dir):
+                static_files = [
+                    f for f in os.listdir(static_dir)
+                    if is_allowed_extension(f)
+                ]
+
+            urls = [f"/images/{name}" for name in upload_files] + \
+                   [f"/static/images/{name}" for name in static_files]
+
+            random.shuffle(urls)
+            urls = urls[:30]
+            return jsonify({"success": True, "images": urls}), 200
+        except Exception as e:
+            log_error(f"Failed to build random images list: {e}")
+            return jsonify({"error": "Internal server error"}), 500
     
     
     @app.route('/uploads', methods=['POST'])
@@ -39,8 +73,7 @@ def register_routes(app):
             if file_size > Config.MAX_CONTENT_LENGTH:
                 max_size = format_file_size(Config.MAX_CONTENT_LENGTH)
                 return jsonify({"error": f"File size exceeds the maximum limit of {max_size}"}), 400    
-            success,result = save_file(file_data, file.filename
-                                       )
+            success, result = save_file(file.filename, file_data)
             if not success:
                 return jsonify({"error": result}), 500
             new_filename = result
